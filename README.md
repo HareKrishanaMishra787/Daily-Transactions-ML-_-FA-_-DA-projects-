@@ -4,8 +4,8 @@
 
 ---
 
-[![Open Part 1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TP0Sn2tXJBHBjk83VAoBQrIHT9EfVK2i?usp=sharing)
-[![Open Part 2 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GCd6nAXB3ZAM79ADzaQFNzwBf9JlVvsb?usp=sharing)
+[![Open Part 1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GCd6nAXB3ZAM79ADzaQFNzwBf9JlVvsb?usp=sharing)
+[![Open Part 2 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TP0Sn2tXJBHBjk83VAoBQrIHT9EfVK2i?usp=sharing)
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow?logo=pandas)
@@ -17,8 +17,8 @@
 ## 🔗 Quick Access
 | 📂 Project Part | 🚀 Description | ▶️ Run on Google Colab |
 |-----------------|----------------|-------------------------|
-| **Part 1 - Data Cleaning & EDA** | Preprocessing, handling missing values, duplicates, and preparing dataset for analysis. | [![Open Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TP0Sn2tXJBHBjk83VAoBQrIHT9EfVK2i?usp=sharing) |
-| **Part 2 - Advanced EDA & Insights** | Spending patterns, category analysis, income vs expense trends, and cumulative savings visualization. | [![Open Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GCd6nAXB3ZAM79ADzaQFNzwBf9JlVvsb?usp=sharing) |
+| **Part 1 - Data Cleaning & EDA** | Preprocessing, handling missing values, duplicates, and preparing dataset for analysis. | [![Open Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GCd6nAXB3ZAM79ADzaQFNzwBf9JlVvsb?usp=sharing) |
+| **Part 2 - Advanced EDA & Insights** | Spending patterns, category analysis, income vs expense trends, and cumulative savings visualization. | [![Open Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TP0Sn2tXJBHBjk83VAoBQrIHT9EfVK2i?usp=sharing) |
 
 ---
 
@@ -79,19 +79,8 @@ It consists of two parts:
 ## 📊 Sample Visualizations
 - 📈 Daily & Monthly Transaction Trends  
 - 🔥 Spending Heatmap by Day & Hour  
-- 🥘 Top 5 Expense Categories (Pie Chart)  
-- 📊 Income vs Expense Count & Distribution  
-- 💰 Cumulative Savings Over Time  
+- 🥘 Top 5 Expense Catego
 
----
-
-## 🚀 Use Cases
-- **Personal Finance Tracking** – Monitor income, spending & savings.  
-- **Budget Planning** – Identify high-expense categories to optimize.  
-- **Investment Analysis** – Study spending trends & plan savings.  
-- **Decision-Making** – Data-driven financial management.  
-
----
 
 ## 👨‍💻 Author  
 **Hare Krishana Mishra**  
